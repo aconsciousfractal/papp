@@ -1,0 +1,152 @@
+{
+  "manifest_version": "1",
+  "delivery_id": "PAPP/github-1.0.2",
+  "guide_contract_identity": "PAPP/documentary-1.0.2",
+  "display_name": "PAPP by Oleksiy Babanskyy",
+  "repository": "aconsciousfractal/papp",
+  "recipient_base": "papp/",
+  "entry": "README.md",
+  "working_entry": "kit/START_HERE.md",
+  "licence": "MIT",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 19,
+      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "bytes": 27,
+      "sha256": "13064e7bea658e01e718b414fbb7b3b244f36411fe25ee2055c151f7b534547a"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/problem.md",
+      "bytes": 420,
+      "sha256": "d28c6ef8cd2d3ba9e73c77147016c31cd8bc67726bc4290c21ca766405d91d99"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/proposal.md",
+      "bytes": 418,
+      "sha256": "1af77c438624321dc901630efecf0e4ed063492277a791a64ebd5db263b80f84"
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "bytes": 1194,
+      "sha256": "5991693c24cc84d5792ce9ef2999a9475c1f97c28ae772479d1502536bb41932"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1848,
+      "sha256": "bdc7ae581659fddb210ce6800e93aedbe797e4ce1d14cc644a802ab42b9a535a"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1295,
+      "sha256": "775c11c6a32935ef32d7fa3a3f220c1022f67e9344752f82181bc095283a57bd"
+    },
+    {
+      "path": "EDITION.md",
+      "bytes": 2449,
+      "sha256": "03268fc093e699b33c6613ecde7d7ada76891f8025ef3be21b9b184c217e772c"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1074,
+      "sha256": "7c2e33041c2736468f9f13fe88eff5faa656bb632e1a9e2f95d77929924bcd61"
+    },
+    {
+      "path": "MAINTENANCE.md",
+      "bytes": 1342,
+      "sha256": "2e0fa5b441ba032acffed71c8ad436bfc2bcc553dd18c2ed097c2d3f12ac5e71"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3381,
+      "sha256": "d664c31e1af4834947cdd16a6c9e338caad6f4785b1680f785b773025d2668d3"
+    },
+    {
+      "path": "examples/opera/AFTER.md",
+      "bytes": 3024,
+      "sha256": "522a04e63554c48f1450f2b32cdf26ad73e1c60a5c0ea9231348b46eff0427fa"
+    },
+    {
+      "path": "examples/opera/BEFORE.md",
+      "bytes": 2526,
+      "sha256": "1ab4fd6df7c56d0bcb6d8fd5bfccae7a37409e33aeae1e11cdcf54fca5d2ea32"
+    },
+    {
+      "path": "examples/opera/README.md",
+      "bytes": 3257,
+      "sha256": "d60e5503cf4681558a6ff467d24a52ceb97cd79e12e0d69dc4ed5db18fc247a3"
+    },
+    {
+      "path": "examples/opera/SOURCES.json",
+      "bytes": 4710,
+      "sha256": "54ed9a8bf6e94e70558cf52b0b6faf8fe38aecd8566902b28534f995eb99e933"
+    },
+    {
+      "path": "kit/COMPATIBILITY.md",
+      "bytes": 2400,
+      "sha256": "780c3f2092ec5af07e9147865215a161e615d0f4c9563f5bda1dad0c74a12441"
+    },
+    {
+      "path": "kit/CONTRACT.md",
+      "bytes": 2811,
+      "sha256": "bf98b8eae0ac8deee1004420e4c06aa85aaca96e2524d597d41a8758351cb3f8"
+    },
+    {
+      "path": "kit/PAPP.md",
+      "bytes": 4412,
+      "sha256": "28d9b583d352ac129c645b525a807e8840a27d84ebde2b08ad0afe70ed73614f"
+    },
+    {
+      "path": "kit/START_HERE.md",
+      "bytes": 2871,
+      "sha256": "bf984f7bd4618fcf656016e7381add04a442375dde2405e10acae57e67a238e4"
+    },
+    {
+      "path": "kit/WORKSPACE.md",
+      "bytes": 4020,
+      "sha256": "a80932f272cbdbcd39e3db2e3e9d02c9b42b7159848c083a2b2ba19543595d7d"
+    },
+    {
+      "path": "kit/examples/PROJECT_NOTE.md",
+      "bytes": 1588,
+      "sha256": "855cbaa0c32a5fff15f93fd2a4dd4db215afa89642f9f678260b9c578d961d44"
+    },
+    {
+      "path": "kit/modules/ATLAS.md",
+      "bytes": 2722,
+      "sha256": "c092b02cd1a7e62ae7026fd65bd0a48c6dc466fbe5f2cac6b1e423b618fd00ba"
+    },
+    {
+      "path": "kit/modules/DOCUMENTARY_RESEARCH.md",
+      "bytes": 2759,
+      "sha256": "160a55f30a8d2d33d789a2171ab88e76a098a7e5226c1ab39ad20826da286b31"
+    },
+    {
+      "path": "kit/modules/EMPIRICAL_RESEARCH.md",
+      "bytes": 3631,
+      "sha256": "74b40b490f9b58561e83a2c3b349c261285b60fa975ceaeca391608a1e4a4ad8"
+    },
+    {
+      "path": "kit/modules/MATHEMATICS.md",
+      "bytes": 2598,
+      "sha256": "fdcc3af64ec9800a2fc65fc06512c8a768577da33fdf5f8313e3e1f8cbc2bef5"
+    },
+    {
+      "path": "kit/modules/ORGANISATION.md",
+      "bytes": 1748,
+      "sha256": "26e38ae47c92610578ed9a57e46b5eb7b0417670f40f97ed86fe2cc8e0c2613f"
+    },
+    {
+      "path": "kit/modules/SOFTWARE.md",
+      "bytes": 2701,
+      "sha256": "0f44570469794f4bf31028712fb26cbd496f788b281e375bfde24fc60d2638cb"
+    }
+  ],
+  "coverage": "All repository files except this manifest. The separate archive receipt binds the full ZIP and manifest.",
+  "source_pdfs_included": false,
+  "executables_included": false,
+  "currentness": "Identified snapshot; manual upkeep, no automatic semantic currentness"
+}

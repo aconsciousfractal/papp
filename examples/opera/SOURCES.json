@@ -1,0 +1,111 @@
+{
+  "record_kind": "documentary_example_provenance",
+  "base": "this examples/opera directory for delivered_file; primary URLs have their own HTTPS base",
+  "sources": {
+    "S1": {
+      "version": "arXiv:1109.4897v1",
+      "date": "2011-09-22",
+      "landing_url": "https://arxiv.org/abs/1109.4897v1",
+      "pdf_url": "https://arxiv.org/pdf/1109.4897v1",
+      "sha256": "c548507189d5d8e880c48cd57471a88857f9a8ec2961cd4cae79ca12ee59bec0",
+      "bytes": 4876961,
+      "source_status": "Superseded; use only as historical report",
+      "selectors": [
+        {
+          "printed_page": 7,
+          "physical_pdf_page": 7,
+          "section": "3",
+          "object": "delta-t definition and distribution-fitting measurement"
+        },
+        {
+          "printed_page": 19,
+          "physical_pdf_page": 19,
+          "section": "7",
+          "object": "reported result, formula and effective baseline"
+        },
+        {
+          "printed_page": 22,
+          "physical_pdf_page": 22,
+          "section": "Conclusions",
+          "object": "unknown systematics and no theoretical interpretation"
+        }
+      ],
+      "author": "OPERA Collaboration",
+      "title": "Measurement of the neutrino velocity with the OPERA detector in the CNGS beam",
+      "physical_pdf_pages": 24,
+      "payload_pdf_path": null,
+      "identity_observed_on": "2026-10-09"
+    },
+    "S2": {
+      "version": "arXiv:1109.4897v4",
+      "date": "2012-07-12",
+      "landing_url": "https://arxiv.org/abs/1109.4897v4",
+      "pdf_url": "https://arxiv.org/pdf/1109.4897v4",
+      "sha256": "69a5560d00e22b617838908ff85084a69a37baab69d22d8b11733d9c2ea24137",
+      "bytes": 2241679,
+      "source_status": "Corrected version replaces earlier versions; primary reported measurement, not independent experimental validation",
+      "selectors": [
+        {
+          "printed_page": 15,
+          "physical_pdf_page": 18,
+          "section": "6.1",
+          "object": "winter timing tests and fibre correction"
+        },
+        {
+          "printed_page": 17,
+          "physical_pdf_page": 20,
+          "section": "6.1",
+          "object": "oscillator timing shift"
+        },
+        {
+          "printed_page": 25,
+          "physical_pdf_page": 28,
+          "section": "8",
+          "object": "corrected result and asymmetric uncertainties"
+        },
+        {
+          "printed_page": 30,
+          "physical_pdf_page": 33,
+          "section": "10",
+          "object": "final conclusions and uncertainty boundary"
+        }
+      ],
+      "author": "OPERA Collaboration",
+      "title": "Measurement of the neutrino velocity with the OPERA detector in the CNGS beam",
+      "physical_pdf_pages": 37,
+      "payload_pdf_path": null,
+      "identity_observed_on": "2026-10-09"
+    }
+  },
+  "originals_and_adaptations": {
+    "before": {
+      "original_sha256": "393b4c64ced3d28d6d6340c8232f15649e13118ca6de32e0fc7fd73a5f5457b5",
+      "original_words": 396,
+      "delivered_file": "BEFORE.md",
+      "delivered_sha256": "1ab4fd6df7c56d0bcb6d8fd5bfccae7a37409e33aeae1e11cdcf54fca5d2ea32",
+      "byte_identical_to_original": false,
+      "adaptations": "Portable links, explicit adaptation label, evaluation/edition housekeeping; scientific statement/conditions preserved by primary comparison"
+    },
+    "after": {
+      "original_sha256": "69969ec98a2a906b79050ca191d407a677714c37934db8b2cfb3742b46a1a54a",
+      "original_words": 345,
+      "delivered_file": "AFTER.md",
+      "delivered_sha256": "522a04e63554c48f1450f2b32cdf26ad73e1c60a5c0ea9231348b46eff0427fa",
+      "byte_identical_to_original": false,
+      "adaptations": "Portable links, explicit adaptation label, evaluation/edition housekeeping; scientific statement/conditions preserved by primary comparison"
+    },
+    "post_consultation_original_checkpoint": {
+      "sha256": "6673dfe2f3c920297c0f3d0649663489a0a871564d8ef790ac437be356276c8a",
+      "included": false
+    }
+  },
+  "current_source": "S2",
+  "reader_observation": {
+    "original_answer_it": "Trovo tutti e quattro gli elementi senza aiuto",
+    "subject_original_sha256": "393b4c64ced3d28d6d6340c8232f15649e13118ca6de32e0fc7fd73a5f5457b5",
+    "scope": "Self-reported four-item findability without help in exact original S1 note only; not updated-note or adaptation acceptance"
+  },
+  "work_mode": "Retrospective nonblind manual assisted cycle; no independent physics or experimental replay",
+  "source_currentness": "These identities were inspected for the completed comparison; no ongoing literature monitoring or global currentness claimed",
+  "redistribution": "Versioned primary URLs only; source PDFs not included; access is not redistribution permission"
+}
