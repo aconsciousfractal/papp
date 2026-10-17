@@ -17,8 +17,9 @@ cannot open a referenced guide, provide that file when needed.
 
 You do not need to read every guide before beginning. The assistant starts
 from your request and existing work, then consults relevant modules.
-Use this folder directly; versioned downloads, when published, belong in the
-repository's Releases section. No installer is required or included.
+Use this folder directly, or download the complete kit and its paired receipt
+from the [v1.0.3 release](https://github.com/aconsciousfractal/papp/releases/tag/v1.0.3).
+No installer is required or included.
 
 ## A small example
 

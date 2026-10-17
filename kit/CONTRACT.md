@@ -1,7 +1,7 @@
 # Documentary working agreement
 
-This guide is identified as **PAPP/documentary-1.0.2** and supplied in
-**PAPP/github-1.0.2**. It describes the working agreement for a
+This guide is identified as **PAPP/documentary-1.0.3** and supplied in
+**PAPP/github-1.0.3**. It describes the working agreement for a
 user who chooses this standalone guide for work without a conflicting governing
 contract. It grants no adoption of a separate governing method, conformance to
 that method, replacement of an existing project contract or release authority.

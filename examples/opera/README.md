@@ -1,6 +1,6 @@
 # OPERA: a completed documentary before/after example
 
-This example accompanies delivery `PAPP/github-1.0.2`, whose guide identity is `PAPP/documentary-1.0.2`. The original completed work used `PTP/native-preview-2`. The new packaging and labels are not a new use trial; its observation credit remains attached to the exact original notes.
+This example accompanies delivery `PAPP/github-1.0.3`, whose guide identity is `PAPP/documentary-1.0.3`. The original completed work used `PTP/native-preview-2`. The new packaging and labels are not a new use trial; its observation credit remains attached to the exact original notes.
 
 [BEFORE](BEFORE.md) adapts the historical S1 note; [AFTER](AFTER.md) adapts the current S2 note. They are portable adaptations, not the exact historical files. Adaptations replace internal links and packaging/evaluation housekeeping; preserve the scientific account, qualifications and source locators. [SOURCES.json](SOURCES.json) records original note hashes separately from the delivered adaptations and describes those changes. Human feedback concerns the exact original S1 note only.
 

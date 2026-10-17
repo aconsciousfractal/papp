@@ -1,7 +1,7 @@
 # PAPP — start with the work
 
-Documentary guidance **PAPP/documentary-1.0.2** for research, software and
-organised work. Delivery: **PAPP/github-1.0.2**.
+Documentary guidance **PAPP/documentary-1.0.3** for research, software and
+organised work. Delivery: **PAPP/github-1.0.3**.
 
 Tell your assistant what you want to achieve, what materials you have and where
 you want to work. You do not need to choose a protocol level or fill a form.

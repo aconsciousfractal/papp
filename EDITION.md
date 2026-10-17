@@ -1,7 +1,7 @@
 # What this edition offers
 
-Delivery identity: **PAPP/github-1.0.2**.
-Guide and working-agreement identity: **PAPP/documentary-1.0.2**.
+Delivery identity: **PAPP/github-1.0.3**.
+Guide and working-agreement identity: **PAPP/documentary-1.0.3**.
 
 This is portable English Markdown guidance for authorised research,
 mathematics, software and organised work. It offers one entry, modules read
@@ -42,3 +42,14 @@ The selected repository name is `aconsciousfractal/papp`.
 identify delivered bytes, not scientific truth, authorship or readiness.
 Editing a project note does not alter this kit snapshot; revised guidance
 belongs to a separately identified edition.
+
+## Package receipts and publication
+
+A paired package receipt identifies the prepared ZIP and manifest. Its phase
+and status describe that preparation snapshot; they are not a live statement
+of publication or permission. An older receipt can therefore retain local,
+`false` or `NONE` preparation fields after the same bytes have been published.
+For the release record of this edition, see
+[v1.0.3](https://github.com/aconsciousfractal/papp/releases/tag/v1.0.3).
+The receipt and the ZIP can be checked together without opening that page;
+checking their hashes does not itself establish current publication status.

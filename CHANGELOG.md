@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.3
+
+- Link the README directly to the available versioned download.
+- Explain package preparation receipts within the portable edition, including historical local/false/NONE fields.
+- Make the separate receipt's preparation phase explicit, without asserting a live publication state.
+
+Editorial delivery clarification only. Core and module instructions are unchanged;
+edition labels, manifest and package identity are refreshed. No new use or
+productivity result is claimed. Historical 1.0.2 tag and assets are preserved.
+
 ## 1.0.2
 
 - Make the qualified result, next task and applicable authorisation explicit in the final handoff.

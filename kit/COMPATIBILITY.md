@@ -2,7 +2,7 @@
 
 For a new standalone project whose user chooses this guide, use its
 [working agreement](CONTRACT.md). The guide's identity is
-PAPP/documentary-1.0.2; its delivery is PAPP/github-1.0.2.
+PAPP/documentary-1.0.3; its delivery is PAPP/github-1.0.3.
 Choosing this agreement does not adopt a separate governing method.
 
 For existing work, first inspect its actual instructions and method identity.

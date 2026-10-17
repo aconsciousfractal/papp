@@ -1,7 +1,7 @@
 {
   "manifest_version": "1",
-  "delivery_id": "PAPP/github-1.0.2",
-  "guide_contract_identity": "PAPP/documentary-1.0.2",
+  "delivery_id": "PAPP/github-1.0.3",
+  "guide_contract_identity": "PAPP/documentary-1.0.3",
   "display_name": "PAPP by Oleksiy Babanskyy",
   "repository": "aconsciousfractal/papp",
   "recipient_base": "papp/",
@@ -36,8 +36,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1848,
-      "sha256": "bdc7ae581659fddb210ce6800e93aedbe797e4ce1d14cc644a802ab42b9a535a"
+      "bytes": 2377,
+      "sha256": "72db19c270c81af4c951cc49bfe3f88949286f02c87e4d9e84974d1afd02f9f5"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -46,8 +46,8 @@
     },
     {
       "path": "EDITION.md",
-      "bytes": 2449,
-      "sha256": "03268fc093e699b33c6613ecde7d7ada76891f8025ef3be21b9b184c217e772c"
+      "bytes": 3063,
+      "sha256": "171f6ffa0e71db5a45a2d545f6733ae05319cce7201f03d274fc71a82a636aca"
     },
     {
       "path": "LICENSE",
@@ -61,8 +61,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3381,
-      "sha256": "d664c31e1af4834947cdd16a6c9e338caad6f4785b1680f785b773025d2668d3"
+      "bytes": 3441,
+      "sha256": "1063d8c40e093fb19cb45525aaccc6020aab0173405e1a2547a761c14d766e90"
     },
     {
       "path": "examples/opera/AFTER.md",
@@ -77,7 +77,7 @@
     {
       "path": "examples/opera/README.md",
       "bytes": 3257,
-      "sha256": "d60e5503cf4681558a6ff467d24a52ceb97cd79e12e0d69dc4ed5db18fc247a3"
+      "sha256": "32bd35e26a7b1bee73840bca8072ad2225504d154356cae5e6d92619b5a193da"
     },
     {
       "path": "examples/opera/SOURCES.json",
@@ -87,12 +87,12 @@
     {
       "path": "kit/COMPATIBILITY.md",
       "bytes": 2400,
-      "sha256": "780c3f2092ec5af07e9147865215a161e615d0f4c9563f5bda1dad0c74a12441"
+      "sha256": "70c262312ed842b6dbf905a53ce2ea0568e0f1b6e44e7e2da0dd3d5f7fb22146"
     },
     {
       "path": "kit/CONTRACT.md",
       "bytes": 2811,
-      "sha256": "bf98b8eae0ac8deee1004420e4c06aa85aaca96e2524d597d41a8758351cb3f8"
+      "sha256": "74d9364eb13112622d4ca90697f975b814bde3a6bbffd679355c1c3c80d8bd65"
     },
     {
       "path": "kit/PAPP.md",
@@ -102,7 +102,7 @@
     {
       "path": "kit/START_HERE.md",
       "bytes": 2871,
-      "sha256": "bf984f7bd4618fcf656016e7381add04a442375dde2405e10acae57e67a238e4"
+      "sha256": "a0f9be3e5231cbbbce025deb435682a7048bae936d7100ba76fb48268bf36b57"
     },
     {
       "path": "kit/WORKSPACE.md",
