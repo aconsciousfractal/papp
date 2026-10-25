@@ -41,3 +41,12 @@ fact and its conditions inline; no new computation log or proof ledger is
 needed. Existing governed records still remain required where applicable.
 If a decisive hypothesis, certificate or premise is unavailable, defer only
 the conclusion using it and continue independent authorised work.
+
+## Optional worked example
+
+[Repairing a claim without losing valid results](../../examples/mathematical-repair/README.md)
+illustrates the guidance above using a valid odd-order theorem, a false extension,
+and a restricted recovery result. The proof and selected finite checks are distinct.
+Contributed by Alexandre Couret and adapted for PAPP by Oleksiy Babanskyy;
+[separate permission and attribution](../../examples/mathematical-repair/REUSE_NOTICE.md) apply.
+This is optional reading, not a new required procedure.

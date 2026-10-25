@@ -20,3 +20,14 @@ adaptations in this kit. It grants no additional rights over linked papers/PDFs,
 third-party materials, future illustrations or user project content. Pre-existing
 rights and notices remain applicable. This credit note creates no entitlement
 to redistribute a linked source or user project materials.
+
+## Mathematical-repair companion (separate terms)
+
+Worked example contributed by Alexandre Couret, prepared with AI assistance and adapted for PAPP by Oleksiy Babanskyy.
+
+The files under `examples/mathematical-repair/` have their own
+[attribution record](examples/mathematical-repair/ATTRIBUTION.md) and
+[permission notice](examples/mathematical-repair/REUSE_NOTICE.md). The root MIT
+license covers the original PAPP guidance and OPERA adaptation; it does not
+automatically license this separately attributed contribution or its adaptations.
+Classical mathematical references and argument provenance are retained there.

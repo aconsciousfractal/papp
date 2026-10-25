@@ -53,3 +53,13 @@ For the release record of this edition, see
 [v1.0.3](https://github.com/aconsciousfractal/papp/releases/tag/v1.0.3).
 The receipt and the ZIP can be checked together without opening that page;
 checking their hashes does not itself establish current publication status.
+
+## Repository supplement: mathematical-repair example 0.1.0
+
+The working protocol remains PAPP/documentary-1.0.3. The 1.0.3 release ZIP and
+receipt remain the frozen original guide edition. This repository now also
+contains the optional, separately attributed mathematical-repair companion
+0.1.0 and a navigation link from Mathematics. Its own manifest identifies its
+12-file scope; its own release supplies the ZIP and receipt. Root MANIFEST.json
+identifies this combined repository snapshot, not a replacement 1.0.3 ZIP.
+The contribution is subject to its separate permission notice, not root MIT.

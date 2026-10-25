@@ -1,0 +1,578 @@
+{
+  "allowed_domains_binary": {
+    "all_iff_checks_pass": true,
+    "domains": 2044,
+    "injective_domains": 1043,
+    "range": [
+      2,
+      10
+    ],
+    "support_domain_pairs": 88569
+  },
+  "claims": "Finite arithmetic coverage only. Written general proofs are separate. No PAPP behavior measured.",
+  "cyclic_binary": {
+    "even_parity_checks": 21844,
+    "odd_reconstructions": 10920,
+    "range": [
+      2,
+      14
+    ],
+    "rows": [
+      {
+        "distinct_square_vectors": 3,
+        "n": 2,
+        "nonfirst_members_of_collision_fibres": 1,
+        "supports": 4
+      },
+      {
+        "distinct_square_vectors": 8,
+        "n": 3,
+        "nonfirst_members_of_collision_fibres": 0,
+        "supports": 8
+      },
+      {
+        "distinct_square_vectors": 9,
+        "n": 4,
+        "nonfirst_members_of_collision_fibres": 7,
+        "supports": 16
+      },
+      {
+        "distinct_square_vectors": 32,
+        "n": 5,
+        "nonfirst_members_of_collision_fibres": 0,
+        "supports": 32
+      },
+      {
+        "distinct_square_vectors": 33,
+        "n": 6,
+        "nonfirst_members_of_collision_fibres": 31,
+        "supports": 64
+      },
+      {
+        "distinct_square_vectors": 128,
+        "n": 7,
+        "nonfirst_members_of_collision_fibres": 0,
+        "supports": 128
+      },
+      {
+        "distinct_square_vectors": 117,
+        "n": 8,
+        "nonfirst_members_of_collision_fibres": 139,
+        "supports": 256
+      },
+      {
+        "distinct_square_vectors": 512,
+        "n": 9,
+        "nonfirst_members_of_collision_fibres": 0,
+        "supports": 512
+      },
+      {
+        "distinct_square_vectors": 473,
+        "n": 10,
+        "nonfirst_members_of_collision_fibres": 551,
+        "supports": 1024
+      },
+      {
+        "distinct_square_vectors": 2048,
+        "n": 11,
+        "nonfirst_members_of_collision_fibres": 0,
+        "supports": 2048
+      },
+      {
+        "distinct_square_vectors": 1791,
+        "n": 12,
+        "nonfirst_members_of_collision_fibres": 2305,
+        "supports": 4096
+      },
+      {
+        "distinct_square_vectors": 8192,
+        "n": 13,
+        "nonfirst_members_of_collision_fibres": 0,
+        "supports": 8192
+      },
+      {
+        "distinct_square_vectors": 7430,
+        "n": 14,
+        "nonfirst_members_of_collision_fibres": 8954,
+        "supports": 16384
+      }
+    ],
+    "supports": 32764
+  },
+  "digit_prime_power": {
+    "rows": [
+      {
+        "digit_vectors": 3,
+        "n": 1,
+        "p": 3
+      },
+      {
+        "digit_vectors": 9,
+        "n": 2,
+        "p": 3
+      },
+      {
+        "digit_vectors": 27,
+        "n": 3,
+        "p": 3
+      },
+      {
+        "digit_vectors": 81,
+        "n": 4,
+        "p": 3
+      },
+      {
+        "digit_vectors": 243,
+        "n": 5,
+        "p": 3
+      },
+      {
+        "digit_vectors": 729,
+        "n": 6,
+        "p": 3
+      },
+      {
+        "digit_vectors": 2187,
+        "n": 7,
+        "p": 3
+      },
+      {
+        "digit_vectors": 5,
+        "n": 1,
+        "p": 5
+      },
+      {
+        "digit_vectors": 25,
+        "n": 2,
+        "p": 5
+      },
+      {
+        "digit_vectors": 125,
+        "n": 3,
+        "p": 5
+      },
+      {
+        "digit_vectors": 625,
+        "n": 4,
+        "p": 5
+      },
+      {
+        "digit_vectors": 3125,
+        "n": 5,
+        "p": 5
+      }
+    ],
+    "vectors": 7184
+  },
+  "exploratory_collision_atlas": {
+    "first_found_by_loop_order_not_claimed_globally_minimal": {
+      "affine": {
+        "A": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "B": [
+          1,
+          2,
+          3,
+          6
+        ],
+        "distinct": true,
+        "equivalences": {
+          "affine": false,
+          "dihedral": false,
+          "translation": false
+        },
+        "n": 8,
+        "refutes_exact": true,
+        "refutes_up_to_affine": true,
+        "refutes_up_to_dihedral": true,
+        "refutes_up_to_translation": true,
+        "same_integer_square": true,
+        "square_A": [
+          2,
+          2,
+          1,
+          2,
+          4,
+          2,
+          1,
+          2
+        ],
+        "square_B": [
+          2,
+          2,
+          1,
+          2,
+          4,
+          2,
+          1,
+          2
+        ]
+      },
+      "dihedral": {
+        "A": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "B": [
+          1,
+          2,
+          3,
+          6
+        ],
+        "distinct": true,
+        "equivalences": {
+          "affine": false,
+          "dihedral": false,
+          "translation": false
+        },
+        "n": 8,
+        "refutes_exact": true,
+        "refutes_up_to_affine": true,
+        "refutes_up_to_dihedral": true,
+        "refutes_up_to_translation": true,
+        "same_integer_square": true,
+        "square_A": [
+          2,
+          2,
+          1,
+          2,
+          4,
+          2,
+          1,
+          2
+        ],
+        "square_B": [
+          2,
+          2,
+          1,
+          2,
+          4,
+          2,
+          1,
+          2
+        ]
+      },
+      "translation": {
+        "A": [
+          0,
+          2,
+          3
+        ],
+        "B": [
+          1,
+          2,
+          4
+        ],
+        "distinct": true,
+        "equivalences": {
+          "affine": true,
+          "dihedral": true,
+          "translation": false
+        },
+        "n": 6,
+        "refutes_exact": true,
+        "refutes_up_to_affine": false,
+        "refutes_up_to_dihedral": false,
+        "refutes_up_to_translation": true,
+        "same_integer_square": true,
+        "square_A": [
+          2,
+          0,
+          2,
+          2,
+          1,
+          2
+        ],
+        "square_B": [
+          2,
+          0,
+          2,
+          2,
+          1,
+          2
+        ]
+      }
+    },
+    "searched_cyclic_orders": [
+      2,
+      14
+    ]
+  },
+  "invalid_observation_control": {
+    "candidate": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "matches_full_integer_data": false,
+    "p": 2,
+    "power": 2,
+    "status": "inconsistent_data"
+  },
+  "iterated_prime_power_binary_checks": 572,
+  "known_witnesses": [
+    {
+      "A": [
+        0,
+        1,
+        2
+      ],
+      "B": [
+        3,
+        4,
+        5
+      ],
+      "distinct": true,
+      "equivalences": {
+        "affine": true,
+        "dihedral": true,
+        "translation": true
+      },
+      "n": 6,
+      "refutes_exact": true,
+      "refutes_up_to_affine": false,
+      "refutes_up_to_dihedral": false,
+      "refutes_up_to_translation": false,
+      "same_integer_square": true,
+      "square_A": [
+        1,
+        2,
+        3,
+        2,
+        1,
+        0
+      ],
+      "square_B": [
+        1,
+        2,
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "A": [
+        0,
+        1,
+        4
+      ],
+      "B": [
+        0,
+        2,
+        5
+      ],
+      "distinct": true,
+      "equivalences": {
+        "affine": true,
+        "dihedral": true,
+        "translation": false
+      },
+      "n": 6,
+      "refutes_exact": true,
+      "refutes_up_to_affine": false,
+      "refutes_up_to_dihedral": false,
+      "refutes_up_to_translation": true,
+      "same_integer_square": true,
+      "square_A": [
+        1,
+        2,
+        2,
+        0,
+        2,
+        2
+      ],
+      "square_B": [
+        1,
+        2,
+        2,
+        0,
+        2,
+        2
+      ]
+    }
+  ],
+  "nonabelian_control": {
+    "A": [
+      [
+        1,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1
+      ]
+    ],
+    "diagonal": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "elements": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        2,
+        1
+      ],
+      [
+        1,
+        0,
+        2
+      ],
+      [
+        1,
+        2,
+        0
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        2,
+        1,
+        0
+      ]
+    ],
+    "frobenius_mod2_fails": true,
+    "square": [
+      2,
+      0,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  "noncyclic_products": {
+    "binary_vectors": 1696,
+    "rows": [
+      {
+        "binary_vectors": 16,
+        "moduli": [
+          2,
+          2
+        ],
+        "p": 2,
+        "transversal_size": 1,
+        "transversal_vectors": 2
+      },
+      {
+        "binary_vectors": 16,
+        "moduli": [
+          2,
+          2
+        ],
+        "p": 3,
+        "transversal_size": 4,
+        "transversal_vectors": 16
+      },
+      {
+        "binary_vectors": 64,
+        "moduli": [
+          2,
+          3
+        ],
+        "p": 2,
+        "transversal_size": 3,
+        "transversal_vectors": 8
+      },
+      {
+        "binary_vectors": 64,
+        "moduli": [
+          2,
+          3
+        ],
+        "p": 3,
+        "transversal_size": 2,
+        "transversal_vectors": 4
+      },
+      {
+        "binary_vectors": 256,
+        "moduli": [
+          2,
+          4
+        ],
+        "p": 2,
+        "transversal_size": 2,
+        "transversal_vectors": 4
+      },
+      {
+        "binary_vectors": 256,
+        "moduli": [
+          2,
+          4
+        ],
+        "p": 3,
+        "transversal_size": 8,
+        "transversal_vectors": 256
+      },
+      {
+        "binary_vectors": 512,
+        "moduli": [
+          3,
+          3
+        ],
+        "p": 2,
+        "transversal_size": 9,
+        "transversal_vectors": 512
+      },
+      {
+        "binary_vectors": 512,
+        "moduli": [
+          3,
+          3
+        ],
+        "p": 3,
+        "transversal_size": 1,
+        "transversal_vectors": 2
+      }
+    ]
+  },
+  "not_run": [
+    "model comparison",
+    "blind trial",
+    "independent human review",
+    "Lean",
+    "FCIG audit"
+  ],
+  "status": "PASS",
+  "study": "PAPP-MATH-REPAIR-LAB-03",
+  "weighted_odd_counterexample": {
+    "f": [
+      0,
+      1,
+      2
+    ],
+    "g": [
+      2,
+      1,
+      0
+    ],
+    "n": 3,
+    "square": [
+      4,
+      4,
+      1
+    ]
+  }
+}

@@ -1,13 +1,13 @@
 {
   "manifest_version": "1",
-  "delivery_id": "PAPP/github-1.0.3",
+  "delivery_id": "PAPP/repository-with-math-repair-example-0.1.0",
   "guide_contract_identity": "PAPP/documentary-1.0.3",
   "display_name": "PAPP by Oleksiy Babanskyy",
   "repository": "aconsciousfractal/papp",
   "recipient_base": "papp/",
   "entry": "README.md",
   "working_entry": "kit/START_HERE.md",
-  "licence": "MIT",
+  "licence": "MIT for original PAPP guidance; mathematical-repair companion: separate REUSE_NOTICE.md",
   "files": [
     {
       "path": ".gitattributes",
@@ -31,13 +31,13 @@
     },
     {
       "path": "ATTRIBUTION.md",
-      "bytes": 1194,
-      "sha256": "5991693c24cc84d5792ce9ef2999a9475c1f97c28ae772479d1502536bb41932"
+      "bytes": 1815,
+      "sha256": "1a11f3eb52e13790b16405eb1cd0098c6322856b4f8fb36935dd0c5a29fa179c"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 2377,
-      "sha256": "72db19c270c81af4c951cc49bfe3f88949286f02c87e4d9e84974d1afd02f9f5"
+      "bytes": 2861,
+      "sha256": "ecf145be153180e555c9ee2009bf7e520eb2f55a57747cd245bd9658c4b0ef78"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -46,8 +46,8 @@
     },
     {
       "path": "EDITION.md",
-      "bytes": 3063,
-      "sha256": "171f6ffa0e71db5a45a2d545f6733ae05319cce7201f03d274fc71a82a636aca"
+      "bytes": 3664,
+      "sha256": "76ca3759412278c329a0bef2e51fb19d1a073b4d4bb887fe848e5c18556fd2fc"
     },
     {
       "path": "LICENSE",
@@ -61,8 +61,68 @@
     },
     {
       "path": "README.md",
-      "bytes": 3441,
-      "sha256": "1063d8c40e093fb19cb45525aaccc6020aab0173405e1a2547a761c14d766e90"
+      "bytes": 4016,
+      "sha256": "d12cede1d6f20a611fab9d96cf71833bc20fb22ebca820d8531e66588ec8893c"
+    },
+    {
+      "path": "examples/mathematical-repair/ATTRIBUTION.md",
+      "bytes": 3121,
+      "sha256": "795d45e850d12b08054d3a430c5e2b0a1ea83797d1cdc2fe39ae5785967f6d37"
+    },
+    {
+      "path": "examples/mathematical-repair/EDITION.md",
+      "bytes": 1974,
+      "sha256": "a9a0e5d3ab1f2617a67cc777a71f77e845f69b4de2757712ca4aa5c5cfebb197"
+    },
+    {
+      "path": "examples/mathematical-repair/MANIFEST.json",
+      "bytes": 6723,
+      "sha256": "02a772698dfc05e6615eebdd109b46e9ba137429f7bcb9825d9160ef05d5270d"
+    },
+    {
+      "path": "examples/mathematical-repair/README.md",
+      "bytes": 4014,
+      "sha256": "b80ef15a945fe8d4975df098c8914c94a27a04e46fce722f6f9fc2615a220288"
+    },
+    {
+      "path": "examples/mathematical-repair/REUSE_NOTICE.md",
+      "bytes": 1756,
+      "sha256": "0f17d087795c2a5b4c384aa53f3a5a1e6c12b63bb57a21e07aaa99fa3739086b"
+    },
+    {
+      "path": "examples/mathematical-repair/check_examples.py",
+      "bytes": 3323,
+      "sha256": "f34bb7d228bae93eb23d903df199bcfd1e869f0f734e33e1fb04584be5886fa0"
+    },
+    {
+      "path": "examples/mathematical-repair/supplementary/MATHEMATICS_EN.md",
+      "bytes": 8823,
+      "sha256": "d67c8bed27adfa2163e3e1e90fa33f99a7c6df13407ae9f9cfed57c66ddf3e2e"
+    },
+    {
+      "path": "examples/mathematical-repair/supplementary/NOTE_FOR_OLEKSIY_EN.pdf",
+      "bytes": 316407,
+      "sha256": "7cfee9dd145743f62a32a445946c13d2a39bc46643c2f44031be7aef2be32797"
+    },
+    {
+      "path": "examples/mathematical-repair/supplementary/README.md",
+      "bytes": 1757,
+      "sha256": "eb9ee5ee7697a18c1a18c7e56bb2ce6ae10a7fb4060e152f2112424852852cc1"
+    },
+    {
+      "path": "examples/mathematical-repair/supplementary/code/replay.py",
+      "bytes": 7133,
+      "sha256": "d30f373a9868d09cb334712449a8723fe5d3581fd5b563194b298ba66b8cd36e"
+    },
+    {
+      "path": "examples/mathematical-repair/supplementary/code/src/exact_math.py",
+      "bytes": 6448,
+      "sha256": "dd3100c884fecba1df355370090a44225c53511d676214dc7fe9e1729cf881e5"
+    },
+    {
+      "path": "examples/mathematical-repair/supplementary/exact_results.json",
+      "bytes": 10068,
+      "sha256": "12cc47c580ab81f7d0207850f8315f1156c088608eaea1b42c117d0837dde265"
     },
     {
       "path": "examples/opera/AFTER.md",
@@ -131,8 +191,8 @@
     },
     {
       "path": "kit/modules/MATHEMATICS.md",
-      "bytes": 2598,
-      "sha256": "fdcc3af64ec9800a2fc65fc06512c8a768577da33fdf5f8313e3e1f8cbc2bef5"
+      "bytes": 3118,
+      "sha256": "efa2ea261e1aa9c6deb6339ef15257ab624abb1fd37615f5ea6211858bd0340e"
     },
     {
       "path": "kit/modules/ORGANISATION.md",
@@ -148,5 +208,13 @@
   "coverage": "All repository files except this manifest. The separate archive receipt binds the full ZIP and manifest.",
   "source_pdfs_included": false,
   "executables_included": false,
-  "currentness": "Identified snapshot; manual upkeep, no automatic semantic currentness"
+  "currentness": "Identified snapshot; manual upkeep, no automatic semantic currentness",
+  "guide_release": "PAPP/github-1.0.3",
+  "guide_release_tag": "v1.0.3",
+  "companion": {
+    "package": "PAPP/math-repair-example-0.1.0",
+    "path": "examples/mathematical-repair",
+    "manifest": "examples/mathematical-repair/MANIFEST.json",
+    "release_tag": "math-repair-example-v0.1.0"
+  }
 }

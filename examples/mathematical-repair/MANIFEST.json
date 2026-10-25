@@ -1,0 +1,123 @@
+{
+  "schema": "papp-worked-example-package/1",
+  "package": "PAPP/math-repair-example-0.1.0",
+  "status": "PUBLIC_COMPANION_EDITION",
+  "visible_credit": "Worked example contributed by Alexandre Couret, prepared with AI assistance and adapted for PAPP by Oleksiy Babanskyy.",
+  "permission": "Specific permission to Oleksiy with retained attribution, see REUSE_NOTICE.md; not an unqualified MIT grant or grant of additional onward rights",
+  "files": [
+    {
+      "path": "ATTRIBUTION.md",
+      "bytes": 3121,
+      "sha256": "795d45e850d12b08054d3a430c5e2b0a1ea83797d1cdc2fe39ae5785967f6d37",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "editorial-scope-document-r2",
+      "rc1_sha256": "11bb177dfcc71abf0a2bc4e159c3ee46d5944d83a3200f9d5f0cad277aaee8f9",
+      "reviewed_rc2_sha256": "24a81c4b1d2a374609c4d1cad7f909154ede1204cf5f4f9fb89e365930921ffa"
+    },
+    {
+      "path": "check_examples.py",
+      "bytes": 3323,
+      "sha256": "f34bb7d228bae93eb23d903df199bcfd1e869f0f734e33e1fb04584be5886fa0",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "minimal-checker-credit-header-r2",
+      "source_sha256": "3d8f64d5cb9ed4fc1e76dbaec5643c3acbd81879b58fad289a5327e1edfef15d",
+      "rc1_sha256": "22d8d155cc83abd63307dad8f04a1d5cd2a29d6267f45971dad3a5a567ff2720",
+      "reviewed_rc2_sha256": "d6edecefd9d4623cf9d0b4fc426a7f30ce9ecdd498333c67a33d174f2838dac5"
+    },
+    {
+      "path": "EDITION.md",
+      "bytes": 1974,
+      "sha256": "a9a0e5d3ab1f2617a67cc777a71f77e845f69b4de2757712ca4aa5c5cfebb197",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "editorial-scope-document-r2",
+      "rc1_sha256": "0956582fc01e2369702aa86e8ff4bada7e22386df99f245bb9bdfd1fdbe97392",
+      "reviewed_rc2_sha256": "7f7bbbf8bbaeb3af808165a38847eb8ef89593fdd72fc39157bdbbbc68369f50"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4014,
+      "sha256": "b80ef15a945fe8d4975df098c8914c94a27a04e46fce722f6f9fc2615a220288",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "short-example-attribution-r2",
+      "source_sha256": "7606d6b2a82de79deb631ccfcdbaef74ed27cb5e12cd902ccdfa520b974a2c4e",
+      "rc1_sha256": "65fd63a3623c2b7e916ce18bf251ad1c732f60b175bd5a3d59389e6514d1db79",
+      "reviewed_rc2_sha256": "dbc53469f0abf8acb95849e4c052674b172d418e678f496dce774739396787b5"
+    },
+    {
+      "path": "REUSE_NOTICE.md",
+      "bytes": 1756,
+      "sha256": "0f17d087795c2a5b4c384aa53f3a5a1e6c12b63bb57a21e07aaa99fa3739086b",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "attribution-package-document-r1",
+      "rc1_sha256": "c945fc152430326239dadf0989f4dae7232b1b9d9e2bdfba5ad0aa4178812767",
+      "reviewed_rc2_sha256": "ae152a36159f0e4a791f920643e3a105d53f8250de94bceba2d9aabd298e38d0"
+    },
+    {
+      "path": "supplementary/code/replay.py",
+      "bytes": 7133,
+      "sha256": "d30f373a9868d09cb334712449a8723fe5d3581fd5b563194b298ba66b8cd36e",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "received-replay-credit-comments-r1",
+      "source_sha256": "2ae37c753df26b685e3f01f24ef9e0f282e6e534d8bef5fb54905e932bf63707",
+      "rc1_sha256": "3bd3ea8f2dd17c95cbfb9baad9cc2e8aa80d327b51ae4309a6a38c2a5ba6ec17",
+      "reviewed_rc2_sha256": "082d4711e0830453537dc08cd15588184928bab1c35e7e974abc793025e259bf"
+    },
+    {
+      "path": "supplementary/code/src/exact_math.py",
+      "bytes": 6448,
+      "sha256": "dd3100c884fecba1df355370090a44225c53511d676214dc7fe9e1729cf881e5",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "received-arithmetic-credit-comments-r1",
+      "source_sha256": "db310f606f558f7d7292851967576304c8b231b5f2afaebaeef470a466941509",
+      "rc1_sha256": "0a2f258e9addad0dbb4fa6931cb0c82623b3823feb5a785f8e4580773ea268ae",
+      "reviewed_rc2_sha256": "ebadab76ddaf71d4ad1164186389bc054b2857be3cbffba55084d804f33e4f51"
+    },
+    {
+      "path": "supplementary/exact_results.json",
+      "bytes": 10068,
+      "sha256": "12cc47c580ab81f7d0207850f8315f1156c088608eaea1b42c117d0837dde265",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "historical-original-result-unchanged",
+      "source_sha256": "12cc47c580ab81f7d0207850f8315f1156c088608eaea1b42c117d0837dde265",
+      "rc1_sha256": "12cc47c580ab81f7d0207850f8315f1156c088608eaea1b42c117d0837dde265",
+      "reviewed_rc2_sha256": "12cc47c580ab81f7d0207850f8315f1156c088608eaea1b42c117d0837dde265"
+    },
+    {
+      "path": "supplementary/MATHEMATICS_EN.md",
+      "bytes": 8823,
+      "sha256": "d67c8bed27adfa2163e3e1e90fa33f99a7c6df13407ae9f9cfed57c66ddf3e2e",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "received-math-note-with-credit-context-r1",
+      "source_sha256": "029b0f7580b8be22296ccde38ab6b7a7b4dd2efc718e8b43dba1adb385648beb",
+      "rc1_sha256": "b58292f451dac509847a00cf5b323e5402e0d0e5c60415fe7ea940f3f1d2ffe7",
+      "reviewed_rc2_sha256": "bffdb1998a5bc3f91e346fdd1bb9c1772463f979d83f6b0cd1fe6422c8503ddb"
+    },
+    {
+      "path": "supplementary/NOTE_FOR_OLEKSIY_EN.pdf",
+      "bytes": 316407,
+      "sha256": "7cfee9dd145743f62a32a445946c13d2a39bc46643c2f44031be7aef2be32797",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "note-attribution-and-companion-commands-r2",
+      "source_sha256": "d22e363dd547a4848f45d6a8810f737d016d8548c8e046d10dac950208a24d7b",
+      "rc1_sha256": "2d6c08ddacddb2e1829f9e9255f49a7181a8458d0ec0bdf99d6dce16e7e18d5b",
+      "reviewed_rc2_sha256": "051841e59f3683be2c019a6c40ee29e4ec43755fc9c5d6501580c283eb39a15f"
+    },
+    {
+      "path": "supplementary/README.md",
+      "bytes": 1757,
+      "sha256": "eb9ee5ee7697a18c1a18c7e56bb2ce6ae10a7fb4060e152f2112424852852cc1",
+      "package": "PAPP/math-repair-example-0.1.0",
+      "revision": "editorial-scope-document-r2",
+      "rc1_sha256": "65b8252baf1e5283401800f2ec86d375f97d7e21c673c330a6e15ec4bb02c48b",
+      "reviewed_rc2_sha256": "62eeea66ca64470f12308426e9c2ffd77f81a900641d15a02729029c28b2c271"
+    }
+  ],
+  "manifest_self_excluded": true,
+  "editorial_delta": "PDF attribution condition and executable companion instructions reconciled; originals and rc.1 preserved",
+  "derived_from": {
+    "package": "PAPP/math-repair-example-0.1.0-rc.2",
+    "manifest_sha256": "76159dacc10d63a749ce5e09ba62c63f15267f909ab68b826a88f915002b0543",
+    "zip_sha256": "401bd22b806e1ff2c321919a9815728e3e36239b17fda63dd63dd4877189d7c8"
+  },
+  "release_delta": "Version/state metadata and PDF first-page edition panel only; proof, reviewed page 5/6 repairs and executable ASTs retained"
+}

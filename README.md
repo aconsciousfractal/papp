@@ -59,6 +59,13 @@ Keep existing project agreements and required records. See
 [the working agreement](kit/CONTRACT.md), [compatibility](kit/COMPATIBILITY.md)
 and [manual upkeep](MAINTENANCE.md).
 
+The optional [mathematical repair example](examples/mathematical-repair/README.md)
+shows how to withdraw a false extension while retaining a valid theorem and
+parity identity. **Worked example contributed by Alexandre Couret, prepared
+with AI assistance and adapted for PAPP by Oleksiy Babanskyy.** This separate
+companion has [its own permission and attribution notice](examples/mathematical-repair/REUSE_NOTICE.md);
+it is not included under PAPP's MIT license. [Download companion 0.1.0](https://github.com/aconsciousfractal/papp/releases/tag/math-repair-example-v0.1.0).
+
 ## Reuse and contribute
 
 The original guidance and original example adaptations are [MIT-licensed](LICENSE).

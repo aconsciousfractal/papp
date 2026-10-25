@@ -43,3 +43,12 @@ OPERA observations retain their original scope; no new usability trial is claime
 This edition contains no installer, plugin, atlas generator or automatic
 semantic update. Its example does not establish general productivity or
 independent scientific validation. See [edition scope](EDITION.md).
+
+## Companion 0.1.0 — 2026-10-25
+
+Added the optional mathematical-repair worked example by Alexandre Couret,
+adapted for PAPP, with visible attribution, mathematical references, a minimal
+checker and supplementary note/code. Linked from Mathematics. PAPP protocol
+1.0.3, OPERA, original MIT text and historical release assets are preserved.
+The contribution's separate permission notice applies. This is a didactic
+example, not a comparative evaluation or a new mandatory protocol.
