@@ -1,1 +1,4 @@
 * text=auto eol=lf
+
+# Keep the separately manifested companion byte-exact on every checkout.
+examples/mathematical-repair/** -text -filter -merge -diff

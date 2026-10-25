@@ -11,8 +11,8 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 19,
-      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+      "bytes": 152,
+      "sha256": "10301d31973e8b8b28ee3281007c1db125f81ea6fa28ec942f16c1adbe280ce9"
     },
     {
       "path": ".github/ISSUE_TEMPLATE/config.yml",
